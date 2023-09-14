@@ -2,7 +2,7 @@ import flet
 from flet import *
 from flet import colors
 
-
+#jumbotron appbar widget 
 jumbotron =AppBar(
     toolbar_height=90,
     bgcolor="#E3002A",
